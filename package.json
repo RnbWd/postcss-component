@@ -1,6 +1,6 @@
 {
     "name": "postcss-component",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "PostCSS plugin Convert css into javascript objects which can be used  inside of React components",
     "keywords": ["postcss", "css", "postcss-plugin", "react", "component"],
     "author": "David Wisner <dwisner6@gmail.com>",
