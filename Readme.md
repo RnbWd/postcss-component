@@ -29,14 +29,14 @@ WIP
 Will return:
 
 ```css
-// result.css
+/* result.css */
 .main {
   background: #fff;
 }
 ```
 
 ```js
-// result.styles
+/* result.styles */
 {
   App: {
     main: { width: '100%', height: '100%' },
