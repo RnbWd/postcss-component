@@ -25,3 +25,25 @@ WIP
   background: #fff;
 }
 ```
+
+Will return:
+
+```css
+// result.css
+.main {
+  background: #fff;
+}
+```
+
+```js
+// result.styles
+{
+  App: {
+    main: { width: '100%', height: '100%' },
+    button: { background: 'blue' }
+  },
+  Widget: {
+    main: { background: 'yellow' }
+  }
+}
+```
