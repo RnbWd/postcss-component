@@ -1,6 +1,6 @@
 # postcss-component
 
-> PostCSS plugin to transform @component rules into javascript objects and remove from CSS file
+> [PostCSS](https://github.com/postcss/postcss) plugin to transform `@component` rules into javascript objects and remove from CSS file
 
 WIP
 
