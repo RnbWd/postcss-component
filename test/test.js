@@ -12,10 +12,8 @@ var test = function (input, output, opts, done) {
 
 describe('postcss-component', function () {
 
-    /* Write tests here
-
     it('does something', function (done) {
-        test('a{ }', 'a{ }', { }, done);
-    });*/
+        test('@component App {.main {width: 100%;height: 200%;}}.main{width: 100%}', '.main{width: 100%}', {}, done);
+    });
 
 });
